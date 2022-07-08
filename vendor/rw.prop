@@ -1,0 +1,9 @@
+persist.vendor.operator.optr=OP09
+persist.vendor.operator.spec=SPEC0212
+persist.vendor.operator.seg=SEGC
+persist.vendor.radio.nr_display_rule=4
+persist.vendor.radio.jp_mode_timer1_delay_timer=30
+persist.vendor.radio.jp_mode_timer2_delay_timer=30
+persist.vendor.radio.nr_display_rule.2=4
+persist.vendor.radio.jp_mode_timer1_delay_timer.2=30
+persist.vendor.radio.jp_mode_timer2_delay_timer.2=30
