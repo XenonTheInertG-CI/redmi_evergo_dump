@@ -1,0 +1,18 @@
+## evergo-user 12 SP1A.210812.016 22.7.6 release-keys
+- Manufacturer: xiaomi
+- Platform: mt6833
+- Codename: evergo
+- Brand: Redmi
+- Flavor: evergo-user
+- Release Version: 12
+- Id: SP1A.210812.016
+- Incremental: 22.7.6
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: zh-CN
+- Screen Density: 440
+- Fingerprint: Redmi/evergo/evergo:12/SP1A.210812.016/22.7.6:user/release-keys
+- OTA version: 
+- Branch: evergo-user-12-SP1A.210812.016-22.7.6-release-keys
+- Repo: redmi_evergo_dump
